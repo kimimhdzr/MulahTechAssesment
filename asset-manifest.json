@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MulahTechAssesment/static/css/main.5945499a.css",
+    "main.js": "/MulahTechAssesment/static/js/main.dae8a78f.js",
+    "static/js/453.8ab44547.chunk.js": "/MulahTechAssesment/static/js/453.8ab44547.chunk.js",
+    "index.html": "/MulahTechAssesment/index.html",
+    "main.5945499a.css.map": "/MulahTechAssesment/static/css/main.5945499a.css.map",
+    "main.dae8a78f.js.map": "/MulahTechAssesment/static/js/main.dae8a78f.js.map",
+    "453.8ab44547.chunk.js.map": "/MulahTechAssesment/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5945499a.css",
+    "static/js/main.dae8a78f.js"
+  ]
+}
