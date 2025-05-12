@@ -9,7 +9,7 @@ function App() {
 
   // Fetch file, parse and store in table 1
   useEffect(() => {
-    fetch("/Dataset/Table_Input.csv")
+    fetch(process.env.PUBLIC_URL + "/Dataset/Table_Input.csv")
       .then((response) => response.text())
       .then((csvText) => {
         const parsed = Papa.parse(csvText, {
